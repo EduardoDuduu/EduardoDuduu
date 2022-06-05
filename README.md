@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **EduardoDuduu/EduardoDuduu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Hi there 👋
 -->
 # Registro de Estudos
 
@@ -28,3 +27,4 @@ Aqui se encontra todos os assuntos que eu venho estudando, e os projetos que est
 #### Projetos
 1. [HTM5 e CSS3](https://github.com/EduardoDuduu/html-css)
 2. [Meu primeiro site](https://eduardoduduu.github.io/primeiro-site)
+3. [História do android]()
