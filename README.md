@@ -24,7 +24,7 @@ Aqui se encontra todos os assuntos que eu venho estudando, e os projetos que est
 2. [Estudos MarkDown](https://github.com/EduardoDuduu/etudosMarkDown)
 3. [Estudos CSS3](https://github.com/EduardoDuduu/estudosCSS3)
 4. [Estudos JS](https://github.com/EduardoDuduu/estudosJS)
-#### Projetos
+#### Projetos e desafios
 1. [HTM5 e CSS3](https://github.com/EduardoDuduu/html-css)
 2. [Meu primeiro site](https://eduardoduduu.github.io/primeiro-site)
-3. [História do android]()
+3. [História do android](https://eduardoduduu.github.io/historia-do-android/)
