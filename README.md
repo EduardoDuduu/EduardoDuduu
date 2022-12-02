@@ -29,4 +29,5 @@ Aqui se encontra todos os assuntos que eu venho estudando, e os projetos que est
 #### Projetos, Desafios e Exercicios
 1. [HTM5 e CSS3](https://github.com/EduardoDuduu/html-css)
 2. [Meu primeiro site](https://eduardoduduu.github.io/primeiro-site)
-3. [História do android](https://eduardoduduu.github.io/historia-do-android/)
+3. [História do Android](https://eduardoduduu.github.io/historia-do-android/)
+4. [Projeto Cordel](https://eduardoduduu.github.io/projeto-cordel/)
