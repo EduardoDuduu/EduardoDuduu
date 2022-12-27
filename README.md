@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Registro de Estudos
 
-## Sobre o repositório
+## Sobre o perfil
 Aqui se encontra todos os assuntos que eu venho estudando, e os projetos que estou desenvolvendo, espero que gostem do meu trabalho :) .
 
 ### Índice
@@ -27,8 +27,8 @@ Aqui se encontra todos os assuntos que eu venho estudando, e os projetos que est
 4. [Estudos JS](https://github.com/EduardoDuduu/estudosJS)
 -->
 #### Projetos, Desafios e Exercicios
-1. [Exercícios de HTML, CSS e JS.](https://eduardoduduu.github.io/html-css/)
-2. [Meu primeiro site.](https://eduardoduduu.github.io/primeiro-site)
-3. [Projeto - História do Android](https://eduardoduduu.github.io/historia-do-android/)
+1. [Exercícios de HTML, CSS e JS](https://eduardoduduu.github.io/html-css/)
+2. [Minhas redes sociais](https://eduardoduduu.github.io/social/)
+3. [Projeto História do Android](https://eduardoduduu.github.io/historia-do-android/)
 4. [Projeto Cordel](https://eduardoduduu.github.io/projeto-cordel/)
 5. [Projeto Tela de Login](https://eduardoduduu.github.io/projeto-login/)
